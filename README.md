@@ -27,4 +27,4 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 5. Abre un Pull Request.
 
 ## Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue en el repositorio o contactarme directamente a través de mi correo electrónico: [amoscardaniel@outlook.com].
+Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue en el repositorio o contactarme directamente a través de mi correo electrónico: [daniimoz010@gmail.com].
